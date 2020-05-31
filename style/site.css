@@ -1,0 +1,27 @@
+.main-container{
+    margin-top:20px;
+}
+
+.wrapper, html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    background: rgb(245,245,255);
+    background: linear-gradient(140deg, rgba(245,245,255,1) 0%, rgba(223,223,223,1) 51%, rgba(249,254,255,1) 100%);
+}
+
+.centered-view{
+    align-self: center;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.login-card{
+    width: 450px;
+}

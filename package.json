@@ -1,0 +1,18 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Demo applicaton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Schoeman",
+  "license": "ISC",
+  "dependencies": {
+    "willcore.bootstrap": "^1.0.9",
+    "willcore.mysql": "^1.0.2",
+    "willcore.server": "^1.0.9",
+    "willcore.session": "^1.0.1",
+    "willcore.ui": "^1.1.7"
+  }
+}

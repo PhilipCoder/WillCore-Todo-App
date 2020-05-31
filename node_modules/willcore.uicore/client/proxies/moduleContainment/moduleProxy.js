@@ -1,0 +1,6 @@
+class moduleProxy {
+
+}
+
+export { moduleProxy };
+

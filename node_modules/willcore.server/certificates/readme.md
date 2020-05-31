@@ -1,0 +1,1 @@
+Certificates should be located in this folder.
