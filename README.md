@@ -20,4 +20,4 @@ WillCore.Session is a module that contains additional assignables that provides 
 
 ## Getting started
 
-Download the repo and change the database settings in dbSettings.json to your MySQL DB settings.
+Download the repo and change the database settings in dbSettings.json to your MySQL DB settings. The website will be available at http://localhost:8581/
