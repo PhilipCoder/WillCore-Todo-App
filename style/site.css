@@ -25,3 +25,7 @@
 .login-card{
     width: 450px;
 }
+
+.fa{
+    margin-right: 8px !important;
+}

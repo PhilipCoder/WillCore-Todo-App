@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "willcore.bootstrap": "^1.0.9",
+    "willcore.fontawesome": "^1.0.0",
     "willcore.mysql": "^1.0.2",
     "willcore.server": "^1.0.9",
     "willcore.session": "^1.0.1",

@@ -6,6 +6,7 @@ willcore.todoListServer.server.http;
 willcore.todoListServer.userSession.session;
 willcore.todoListServer.ui;
 willcore.todoListServer.ui.bootstrapEndpoint.bootstrap;
+willcore.todoListServer.ui.fontAwesomeEndpoint.fontawesome;
 willcore.todoListServer.siteCss.style = "/views/style/site.css";
 //services
 willcore.todoListServer.dbService.service = "/services_server/db.js";
